@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W02.1.C03 Expression body methods", "W02.1.C03 Expression body methods.csproj", "{FB79388C-A175-43E9-9628-2F9C1A886830}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB79388C-A175-43E9-9628-2F9C1A886830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB79388C-A175-43E9-9628-2F9C1A886830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB79388C-A175-43E9-9628-2F9C1A886830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB79388C-A175-43E9-9628-2F9C1A886830}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D8D54D0-93E1-4B56-B572-1DFBA32A335F}
+	EndGlobalSection
+EndGlobal

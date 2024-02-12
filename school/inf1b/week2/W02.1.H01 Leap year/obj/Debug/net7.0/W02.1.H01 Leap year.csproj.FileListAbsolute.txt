@@ -1,0 +1,15 @@
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\bin\Debug\net7.0\W02.1.H01 Leap year.exe
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\bin\Debug\net7.0\W02.1.H01 Leap year.deps.json
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\bin\Debug\net7.0\W02.1.H01 Leap year.runtimeconfig.json
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\bin\Debug\net7.0\W02.1.H01 Leap year.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\bin\Debug\net7.0\W02.1.H01 Leap year.pdb
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\W02.1.H01 Leap year.csproj.AssemblyReference.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\W02.1.H01 Leap year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\W02.1.H01 Leap year.AssemblyInfoInputs.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\W02.1.H01 Leap year.AssemblyInfo.cs
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\W02.1.H01 Leap year.csproj.CoreCompileInputs.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\W02.1.H01 Leap year.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\refint\W02.1.H01 Leap year.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\W02.1.H01 Leap year.pdb
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\W02.1.H01 Leap year.genruntimeconfig.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H01 Leap year\obj\Debug\net7.0\ref\W02.1.H01 Leap year.dll

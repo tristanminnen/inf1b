@@ -1,0 +1,15 @@
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\bin\Debug\net7.0\W02.1.C06 Fields and constructor.exe
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\bin\Debug\net7.0\W02.1.C06 Fields and constructor.deps.json
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\bin\Debug\net7.0\W02.1.C06 Fields and constructor.runtimeconfig.json
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\bin\Debug\net7.0\W02.1.C06 Fields and constructor.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\bin\Debug\net7.0\W02.1.C06 Fields and constructor.pdb
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\W02.1.C06 Fields and constructor.csproj.AssemblyReference.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\W02.1.C06 Fields and constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\W02.1.C06 Fields and constructor.AssemblyInfoInputs.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\W02.1.C06 Fields and constructor.AssemblyInfo.cs
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\W02.1.C06 Fields and constructor.csproj.CoreCompileInputs.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\W02.1.C06 Fields and constructor.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\refint\W02.1.C06 Fields and constructor.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\W02.1.C06 Fields and constructor.pdb
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\W02.1.C06 Fields and constructor.genruntimeconfig.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.C06 Fields and constructor\obj\Debug\net7.0\ref\W02.1.C06 Fields and constructor.dll

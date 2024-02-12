@@ -1,0 +1,15 @@
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\bin\Debug\net7.0\W01.2.C02.exe
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\bin\Debug\net7.0\W01.2.C02.deps.json
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\bin\Debug\net7.0\W01.2.C02.runtimeconfig.json
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\bin\Debug\net7.0\W01.2.C02.dll
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\bin\Debug\net7.0\W01.2.C02.pdb
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\W01.2.C02.csproj.AssemblyReference.cache
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\W01.2.C02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\W01.2.C02.AssemblyInfoInputs.cache
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\W01.2.C02.AssemblyInfo.cs
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\W01.2.C02.csproj.CoreCompileInputs.cache
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\W01.2.C02.dll
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\refint\W01.2.C02.dll
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\W01.2.C02.pdb
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\W01.2.C02.genruntimeconfig.cache
+C:\Users\trist\Documents\School\20232024\inf1b\week1\W01.2.C02\obj\Debug\net7.0\ref\W01.2.C02.dll

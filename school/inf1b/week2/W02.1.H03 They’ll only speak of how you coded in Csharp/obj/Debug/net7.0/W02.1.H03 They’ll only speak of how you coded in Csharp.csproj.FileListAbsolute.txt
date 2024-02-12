@@ -1,0 +1,15 @@
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\bin\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.exe
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\bin\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.deps.json
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\bin\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.runtimeconfig.json
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\bin\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\bin\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.pdb
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.csproj.AssemblyReference.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.AssemblyInfoInputs.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.AssemblyInfo.cs
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.csproj.CoreCompileInputs.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\refint\W02.1.H03 They’ll only speak of how you coded in Csharp.dll
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.pdb
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\W02.1.H03 They’ll only speak of how you coded in Csharp.genruntimeconfig.cache
+C:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\W02.1.H03 They’ll only speak of how you coded in Csharp\obj\Debug\net7.0\ref\W02.1.H03 They’ll only speak of how you coded in Csharp.dll

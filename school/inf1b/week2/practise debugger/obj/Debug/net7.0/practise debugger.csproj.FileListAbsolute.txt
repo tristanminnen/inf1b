@@ -1,0 +1,15 @@
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\bin\Debug\net7.0\practise debugger.exe
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\bin\Debug\net7.0\practise debugger.deps.json
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\bin\Debug\net7.0\practise debugger.runtimeconfig.json
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\bin\Debug\net7.0\practise debugger.dll
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\bin\Debug\net7.0\practise debugger.pdb
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\practise debugger.csproj.AssemblyReference.cache
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\practise debugger.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\practise debugger.AssemblyInfoInputs.cache
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\practise debugger.AssemblyInfo.cs
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\practise debugger.csproj.CoreCompileInputs.cache
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\practise debugger.dll
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\refint\practise debugger.dll
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\practise debugger.pdb
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\practise debugger.genruntimeconfig.cache
+c:\Users\trist\OneDrive\Documenten\school\20232024\inf1b\week2\practise debugger\obj\Debug\net7.0\ref\practise debugger.dll
